@@ -7,7 +7,7 @@
 ### Event-Loop
 
 ### Why do I need to learn Node.js?
-  JavaScript everywhere
-  Active community
-  Ready to realtime
-  Big player
+-JavaScript everywhere
+-Active community
+-Ready to realtime
+-Big player
