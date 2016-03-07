@@ -4,5 +4,5 @@ module.exports = app => {
 
   app.listen(PORT, () => {
     console.log(`NTask API - PORT ${PORT}`);
-  })
-}
+  });
+};
