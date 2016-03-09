@@ -11,17 +11,17 @@
 ```
 $ npm init
 $ npm install <module_name>
-$ npm install -g module_name
-$ npm install module_name --save
-$ npm install module_name --save-dev
+$ npm install -g <module_name>
+$ npm install <module_name> --save
+$ npm install <module_name> --save-dev
 $ npm list
 $ npm list -g
-$ npm remove module_name
-$ npm remove -g module_name
-$ npm remove module_name --save
-$ npm remove module_name --save-dev
-$ npm update module_name
-$ npm update -g module_name
+$ npm remove <module_name>
+$ npm remove -g <module_name>
+$ npm remove <module_name> --save
+$ npm remove <module_name> --save-dev
+$ npm update <module_name>
+$ npm update -g <module_name>
 $ npm -v
 ```
 
