@@ -1,16 +1,16 @@
 # 3 Managing modules with NPM
 
 ## 3.1 What does NPM do?
-NPM(Node Package Manager)
-0.6.X Node.js version
-230k of modules
-+149 million downloads are made daily
-+3.4k million downloads are made monthly
+- NPM(Node Package Manager)
+- 0.6.X Node.js version
+- 230k of modules
+- +149 million downloads are made daily
+- +3.4k million downloads are made monthly
 
 ## 3.2 Top NPM commands
 ```
 $ npm init
-$ npm install module_name
+$ npm install <module_name>
 $ npm install -g module_name
 $ npm install module_name --save
 $ npm install module_name --save-dev
