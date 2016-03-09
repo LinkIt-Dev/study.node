@@ -49,7 +49,7 @@ $ npm -v
 2. Minor: 0.X.0
 3. Patch: 0.0.X
 
-caret (^) vs tilde (~)
+tilde (~) vs caret (^)
 
 ~1.0.0 := 1.0.x := <1.1.0
 
@@ -61,7 +61,7 @@ caret (^) vs tilde (~)
 
 ## 3.4 NPM Task automation
 ```
-$ npm run command_name
+$ npm run <command_name>
 ```
 
 ```
@@ -95,4 +95,4 @@ $ npm test
 ```
 
 link
--https://docs.npmjs.com/
+- https://docs.npmjs.com/
