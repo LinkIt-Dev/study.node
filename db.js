@@ -5,6 +5,7 @@ import Sequelize from "sequelize";
 let db = null;
 
 module.exports = app => {
+  console.log(db);
   if (!db) {
     const config = app.libs.config;
     const sequelize = new Sequelize(
