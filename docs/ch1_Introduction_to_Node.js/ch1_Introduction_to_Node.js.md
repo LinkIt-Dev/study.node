@@ -9,7 +9,7 @@
 ### 1.1.2 Event-Loop
 
 ## 1.3 Why do I need to learn Node.js?
--JavaScript everywhere
--Active community
--Ready to realtime
--Big player
+- JavaScript everywhere
+- Active community
+- Ready to realtime
+- Big player
