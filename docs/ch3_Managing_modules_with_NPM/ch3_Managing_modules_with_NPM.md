@@ -26,7 +26,7 @@ $ npm -v
 ```
 
 ## 3.3 Understanding package.json file
-```
+```json
 {
   "name": "my-first-node-app",
   "description": "My first node app",
