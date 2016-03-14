@@ -64,7 +64,7 @@ tilde (~) vs caret (^)
 $ npm run <command_name>
 ```
 
-```
+```json
 {
   "name": "my-first-node-app",
   "description": "My first node app",
