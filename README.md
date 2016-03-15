@@ -17,6 +17,7 @@ $ npm instll
 $ npm start
 ```
 
+브라우저 실행
 ```
 https://localhost:3000
 ```
