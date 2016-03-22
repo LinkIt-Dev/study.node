@@ -6,6 +6,7 @@ links
 - https://nodejs.org/en/download/
 - https://docs.npmjs.com/
 
+Node & npm 버전 확인
 ```
 $ node -v
 $ npm -v
